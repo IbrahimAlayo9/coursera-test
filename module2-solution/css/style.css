@@ -16,8 +16,9 @@ h1 {
 
 .food {
 	text-align: center;
-	width: 30%;
+	width: 100px;
 	float: right;
+	border: 1px solid black;
 }
 #chicken {
 	background-color: red;
